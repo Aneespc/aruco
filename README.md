@@ -5,13 +5,7 @@ This is a foundational step toward a full control panel overlay system.
 
 ---
 
-## What's Included
-
-- `normal_pose_detection.py`: A standalone script that detects Aruco markers and draws pose axes using OpenCV.
-- `camera_calibration.py`: Camera calibration script that gives the intrinsic parameters of the camera using a chessboard pattern.
-- `panel_config.json`: Configuration file for the full overlay system (not yet implemented in code).
-- `dataset/`: Folder containing all chessboard images used for camera calibration.
-
+ run--->python camera_calibration_live.py
 ---
 
 ## Installation
